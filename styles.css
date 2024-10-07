@@ -1,1 +1,10 @@
-pre {text-align: center;}
+pre {text-align: center;
+	 color: #000080;}
+p {color: #000080;
+   font-size: 18px;}
+h1 {
+  font-size: 30px;
+}
+
+body {background-color: #ADD8E6;
+	}
