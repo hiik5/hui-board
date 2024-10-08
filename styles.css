@@ -1,10 +1,29 @@
-pre {text-align: center;
-	 color: #000080;}
-p {color: #000080;
-   font-size: 18px;}
-h1 {
-  font-size: 30px;
+p{
+	color: #000080; 
+	font-size: 18px; 
 }
 
-body {background-color: #ADD8E6;
-	}
+pre{
+	text-align: center;
+}
+
+h1{
+	font-size: 30px;
+	text-align: center;
+}
+
+h2{
+	font-size: 22px;
+	text-align: center;
+}
+
+body{
+	background-color: #ADD8E6;
+}
+	
+::selection {
+	background-color: yellow;
+    color: #000080;
+}
+
+
